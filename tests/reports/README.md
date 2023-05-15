@@ -1,0 +1,2 @@
+# Cucumber UI Template Reports
+
