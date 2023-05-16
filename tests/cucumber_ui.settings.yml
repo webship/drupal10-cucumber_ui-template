@@ -1,10 +1,10 @@
-config_path: "."
+config_path: "DRUPAL_PROJECT_PATH"
 config_file: "./nightwatch.conf.js"
-features_path: "tests/features"
+features_path: "DRUPAL_PROJECT_PATH/tests/features"
 html_report: true
-html_report_dir: "tests/reports"
+html_report_dir: "DRUPAL_PROJECT_PATH/tests/reports"
 html_report_format: "html"
 json_report: false
-json_report_dir: "tests/reports"
-log_report_dir: "tests/logs"
+json_report_dir: "DRUPAL_PROJECT_PATH/tests/reports"
+log_report_dir: "DRUPAL_PROJECT_PATH/tests/logs"
 editing_mode: "free_text"
