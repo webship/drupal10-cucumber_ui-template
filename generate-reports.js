@@ -7,6 +7,8 @@ var options = {
   reportSuiteAsScenarios: true,
   scenarioTimestamp: true,
   launchReport: true,
+  brandTitle: 'Bootstrap HTML Report',
+  name: 'Bootstrap HTML Report',
   metadata: {
     "App Version": "7.1.0",
     "Test Environment": "development",
